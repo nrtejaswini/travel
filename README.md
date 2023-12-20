@@ -27,3 +27,4 @@ Navigate through the options to book flights, hotels, or cars.
 Admins can access the admin panel to manage the system's data.
 ## website
 https://github.com/nrtejaswini/travel/blob/main/demo%20gif.mp4
+demo gif.mp4
