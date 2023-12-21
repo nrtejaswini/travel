@@ -1,30 +1,36 @@
-# Travel Management System (Java Swing & MySQL)
+                                                                                   # Travel and Tourism Management System
+The Travel and Tourism Management System is a comprehensive application designed to efficiently manage the details of customers, hotel bookings, cancellations, and tourist destinations. This system serves as an all-encompassing platform to handle user information, hotel data, tour packages, and more. It has been developed primarily for administrative purposes, ensuring that only authorized administrators have access to the backend database.
 
-This project is a Travel Management System built using Java Swing for the user interface and MySQL for the database management. It allows users to manage various aspects of travel including booking flights, hotels, and car rentals.
+## Purpose
+The primary objective of this project is to create an application that streamlines and automates the management of tourists, bookings, and various destinations. By digitizing these processes, the system aims to significantly reduce manual work and enhance efficiency in handling travel-related activities.
 
 ## Features
-User Authentication: Secure login system for both administrators and users.
-Flight Booking: Search and book flights based on various parameters like date, destination, etc.
-Hotel Booking: Find and reserve accommodations at different locations.
-Car Rental: Rent cars based on preferences and travel requirements.
-Admin Panel: Accessible only to administrators for managing flights, hotels, and cars.
-## Technologies Used
-Java Swing: Used for the graphical user interface.
-MySQL: Database management system for storing user data, bookings, and system configurations.
-## Installation
-Prerequisites
-JDK (Java Development Kit)
-MySQL Database
-## Steps
-Clone or download the project repository.
-Set up the MySQL database by importing the provided SQL file (database.sql) into your MySQL server.
-Update the database connection configuration in the project code to match your MySQL credentials.
-Compile and run the Java files to launch the application.
+Customer Management: Manage customer details, preferences, and booking history.
+Hotel Booking: Facilitate hotel reservations, cancellations, and room preferences.
+Tourism Places: Store information about tourist destinations, attractions, and packages.
+Administrator Access: Ensure secure access to the backend database exclusively for administrators.
 ## Usage
-Upon running the application, the login screen will appear.
-Use the provided credentials to log in as an administrator or a user.
-Navigate through the options to book flights, hotels, or cars.
-Admins can access the admin panel to manage the system's data.
+The system offers a user-friendly interface for administrators to perform various tasks, including:
+
+Adding, modifying, or deleting customer information.
+Handling hotel bookings, cancellations, and room allocations.
+Managing tourism places, packages, and associated details.
+
+## Installation
+To deploy this system:
+
+Clone the repository to your local machine.
+Set up the necessary database configurations as specified in the documentation.
+Run the application and ensure all dependencies are installed correctly.
+
+## Security
+As the backend database access is limited to administrators, security measures have been implemented to safeguard sensitive information. Access controls and authentication mechanisms have been put in place to prevent unauthorized access.
+
+## Contributing
+We welcome contributions and improvements to enhance the functionality and usability of the Travel and Tourism Management System. Please refer to the contributing guidelines for more information.
+
 ## website
-https://github.com/nrtejaswini/travel/blob/main/demo%20gif.mp4
-demo gif.mp4
+
+
+## Contact
+For any inquiries or support regarding this project, please contact Tejaswini at nrtejaswini25@gmail.com.
