@@ -1,4 +1,4 @@
-                                                                                   # Travel and Tourism Management System
+# Travel and Tourism Management System
 The Travel and Tourism Management System is a comprehensive application designed to efficiently manage the details of customers, hotel bookings, cancellations, and tourist destinations. This system serves as an all-encompassing platform to handle user information, hotel data, tour packages, and more. It has been developed primarily for administrative purposes, ensuring that only authorized administrators have access to the backend database.
 
 ## Purpose
@@ -30,7 +30,7 @@ As the backend database access is limited to administrators, security measures h
 We welcome contributions and improvements to enhance the functionality and usability of the Travel and Tourism Management System. Please refer to the contributing guidelines for more information.
 
 ## website
-
+https://github.com/nrtejaswini/travel/blob/main/demo%20gif.mp4
 
 ## Contact
 For any inquiries or support regarding this project, please contact Tejaswini at nrtejaswini25@gmail.com.
